@@ -16,7 +16,7 @@ int ComputerChoices =rand()%3 ;
 string Choice1="Rock";
 string Choice2="Paper";
 string Choice3="Scissors";
-cout<<"In our U just have 3 choices\n";
+cout<<"In our game U just have 3 choices\n";
 cout<<"choose 1\tIf U want to choose Rock \n";
 cout<<"choose 2\tIf U want to choose Paper \n";
 cout<<"choose 3\tIf U want to choose Scissors \n ";
